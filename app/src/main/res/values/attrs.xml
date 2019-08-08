@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GradientSeekBar">
+        <attr name="value" format="float" />
+        <attr name="title" format="string|reference" />
+        <attr name="emptyTextColor" format="color" />
+        <attr name="filledTextColor" format="color" />
+        <attr name="progressStartColor" format="color" />
+        <attr name="progressEndColor" format="color" />
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="titleMargin" format="dimension" />
+        <attr name="titleTextSize" format="dimension" />
+        <attr name="titleGravity" format="enum">
+            <enum name="center" value="0" />
+            <enum name="left" value="1" />
+            <enum name="right" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
