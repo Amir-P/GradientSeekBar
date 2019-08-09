@@ -12,7 +12,7 @@ dependencies {
 ```
 
 **Maven**
-```
+```xml
 <dependency>
   <groupId>com.amir-p</groupId>
   <artifactId>GradientSeekBar</artifactId>
@@ -22,7 +22,7 @@ dependencies {
 ```
 
 # Usage
-```
+```xml
 <com.amir_p.GradientSeekBar.GradientSeekBar
     android:layout_width="300dp"
     android:layout_height="150dp"
@@ -34,7 +34,7 @@ dependencies {
     app:value="1" />
 ```
 # Style
-```
+```xml
 <style name="GradientSeekBarStyle">
     <item name="progressEndColor">#01579B</item>
     <item name="progressStartColor">#311B92</item>
