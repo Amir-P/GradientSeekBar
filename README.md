@@ -7,7 +7,7 @@ Beautiful gradient SeekBar implementation in Android for API 17+
 **Gradle**
 ```
 dependencies {
-  implementation compile 'com.amir-p:GradientSeekBar:1.0.0'
+  implementation 'com.amir-p:GradientSeekBar:1.0.0'
 }
 ```
 
